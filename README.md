@@ -10,7 +10,7 @@ lesion.py is used to load up the data
 
 eval_probabilistic.ipynb is used to calculate accuracy, jaccard ind, and ece
 
-ensemble_ent.ipynb is used to calculate pac,pui of either  deterministic and mc ensembles
+ensemble_ent.ipynb is used to calculate pac,pui of either  deterministic or mc ensembles
 
 ensemble_ece.ipynb is used to calculate ece,accuracy, and jaccard ind of ensembles
 
